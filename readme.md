@@ -1,3 +1,3 @@
 # rose-irr2021
 
-Code for rose to be used at texas cup
+Code used by team 9987 (9887) at the Texas Cup 2021
